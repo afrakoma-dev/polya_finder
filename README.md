@@ -1,6 +1,6 @@
 # PolyA Finder
 
-A simple bioinformatics tool to detect polyadenylation signals like `AATAAA` in mRNA sequences.
+A simple bioinformatics tool to detect polyadenylation signals like `AAUAAA` in mRNA sequences.
 
 ## Features
 
