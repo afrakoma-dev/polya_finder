@@ -53,6 +53,6 @@ This project was created as preparation for a bioinformatics internship focused 
 
 ## ToDo
 
-- Detect point mutations in PolyA motifs (e.g., AATAAA -> AATGAA)
+- Detect point mutations in PolyA motifs (e.g., AAUAAA -> AAUGAA)
 - Read sequences from FASTA files (using Biopython)
 - Visualize motif locations 
